@@ -17,13 +17,29 @@
     },
     {
       "_template": "selling_point",
+      "main": "Tina is dope 🤙",
+      "supporting": "It’s pretty much my favorite animal. It’s like a lion and a tiger mixed… bred for its skills in magic."
+    },
+    {
       "main": "Extend & contribute",
       "supporting": "This is not one-size-fits-all CMS. Tina is a grassroots open source JavaScript toolkit with a plugin-rich ecosystem. You can customize and extend the toolkit to suit your needs. Get and give help with a robust community of contributors."
+    },
+    {
+      "main": "Tina is dope 🤙",
+      "supporting": "It’s pretty much my favorite animal. It’s like a lion and a tiger mixed… bred for its skills in magic."
+    },
+    {
+      "main": "Tina is dope 🤙",
+      "supporting": "It’s pretty much my favorite animal. It’s like a lion and a tiger mixed… bred for its skills in magic."
     }
   ],
   "setup": {
-    "headline": "Make your site editable in five minutes.",
+    "headline": "Make your site editable in 🐧",
     "steps": [
+      {
+        "_template": "setup_point",
+        "step": "Make yourself a dang quesadilla"
+      },
       {
         "_template": "setup_point",
         "step": "Install and configure Tina plugins"
@@ -37,7 +53,9 @@
         "step": "Customize and define the content fields by passing an options argument"
       },
       {
-        "_template": "setup_point",
+        "step": "Make yourself a dang quesadilla"
+      },
+      {
         "step": "Open the sidebar 🤩, edit your site and watch the content updating in real-time"
       }
     ],
